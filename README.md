@@ -6,7 +6,7 @@ Perform the CRUD operation and store the data locally. Also, add the validations
 To run the program of task 1 just go to path where file is located and run this command: "python main.py"
 
 
-Task 2: file name "main1.py" \n
+Task 2: file name "main1.py" 
 FastAPI Task:
 Perform Employee Management where the fields would be:
 emp_id, emp_name, emp_mobile_number, emp_email, emp_designation
